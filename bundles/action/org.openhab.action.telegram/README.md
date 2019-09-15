@@ -13,7 +13,7 @@ As described in the Telegram Bot API, this is the manual procedure needed in ord
 
 2. Create the destination chat
 
-- Open a chat with your new Bot and send any message to it. The next step will not work unless you send a message to your bot first.
+- Open a chat with your new Bot and send more than three chat messages to it. The next step will not work unless you send a message to your bot first.
 
 3. Get the chatId
 
